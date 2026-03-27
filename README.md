@@ -13,13 +13,13 @@ This is a simple web application for sharing code or text with dynamic real-time
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SatoX69/Pastebin-Clone
+   git clone https://github.com/rustamtomer/pastebin
    ```
 
 2. Change directory to the project:
 
    ```bash
-   cd Pastebin-Clone
+   cd pastebin
    ```
 
 3. Install dependencies:
