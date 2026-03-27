@@ -58,6 +58,3 @@ Mike Harrison
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**PS/N**
-This is my First NodeJS Project after countless practice
